@@ -1,7 +1,7 @@
 from pyglet.gl import *
 
 # create a pyglet window
-win = pyglet.window.Window()
+
 
 
 # Create the vertex_list - 3 vertices, with 2-dimensional position data, and nothing else
